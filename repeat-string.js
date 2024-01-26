@@ -1,5 +1,5 @@
 function repeatStringNumTimes (str, num) {
-  // 
+  // Retorna uma string repetida 'num' vezes.
     if (num < 0) {
    return ""; 
   }
